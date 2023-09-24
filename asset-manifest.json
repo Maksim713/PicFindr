@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PicFindr/static/css/main.b9fd878b.css",
+    "main.js": "/PicFindr/static/js/main.1f6b3daf.js",
+    "index.html": "/PicFindr/index.html",
+    "main.b9fd878b.css.map": "/PicFindr/static/css/main.b9fd878b.css.map",
+    "main.1f6b3daf.js.map": "/PicFindr/static/js/main.1f6b3daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9fd878b.css",
+    "static/js/main.1f6b3daf.js"
+  ]
+}
